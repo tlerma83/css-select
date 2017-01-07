@@ -1,0 +1,56 @@
+header {
+    border: 1px dashed purple;
+    background-color: lightgoldenrodyellow;
+}
+
+ul li{
+    display: inline;
+    margin: 5%;
+    color: chocolate;    
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+.disabled {
+    color: gray;
+}
+
+.active {
+    color: yellow;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.red-sibling {
+    background-color: red;
+}
+
+.blue-sibling {
+    background-color: blue;
+}
+
+.child {
+    border: 1px dotted purple;
+    border-radius: 3%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
